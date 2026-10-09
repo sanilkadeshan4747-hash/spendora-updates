@@ -1,1 +1,9 @@
 
+
+{
+  "latestVersion": "1.0.0",
+  "minimumSupportedVersion": "1.0.0",
+  "updateUrl": "https://github.com/sanilkadeshan4747-hash/spendora-updates",
+  "releaseNotes": "Spendora initial release.",
+  "forceUpdate": false
+}
